@@ -1,2 +1,2 @@
 # Core
-Core component
+Core component of the engine.
